@@ -1,0 +1,22 @@
+.produit {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 700px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+  }
+  .produit th{
+    background-color: #4c8ae6b0;
+    text-align: center;
+    padding: 8px; 
+  }
+  
+  .produit td   {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .produit tr:nth-child(even) {
+    background-color: #d8df6e94;
+  }
